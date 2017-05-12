@@ -1,3 +1,4 @@
 # IronGram
 
-Turn the IronGram project we made in class into a SnapChat-like service by making it delete the photos briefly after they are first viewed.
+IronGram is a SnapChat-like service which allows users to send photos to other users and deletes them 
+after a specified time period when they are first viewed.
